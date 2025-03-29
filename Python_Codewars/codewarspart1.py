@@ -632,8 +632,7 @@ def reverse_words(text):
 
 
 
-# Your task is to remove all duplicate words from a string, leaving only single (first)
-#  words entries.
+# Your task is to remove all duplicate words from a string, leaving only single (first) words entries.
 
 # # Input:
 
@@ -762,7 +761,6 @@ print(solution)
 
 # Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters 
 # then it should replace the missing second character of the final pair with an underscore ('_').
-
 # Examples:
 
 # * 'abc' =>  ['ab', 'c_']
