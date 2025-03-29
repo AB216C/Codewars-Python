@@ -1,5 +1,5 @@
 **CODEWARS**
 
-Both part 1 and 2 involves solving different questions from diffferent world perspective using python codes. 
+Both codewars ppart 1 and 2 involve solving questions from different world perspectives using python codes. 
 
-Also, it involves mastering varieties of python concepts such as arrays, classes, functions,set, tuples, dictionaries, conditionals, error handling, Regex expressions, among others.
+Lastly, it involves mastering varieties of python concepts such as arrays, classes, functions,set, tuples, dictionaries, conditionals, error handling, Regex expressions, among others.
