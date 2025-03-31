@@ -163,7 +163,6 @@ print(changed2)
 # #Implement the function which takes an array containing the names of people that like an item. 
 # It must return the display text as shown in the examples:
 
-
 # []                                -->  "no one likes this"
 # ["Peter"]                         -->  "Peter likes this"
 # ["Jacob", "Alex"]                 -->  "Jacob and Alex like this"
@@ -224,14 +223,14 @@ numbers ="1 9 3 4 -5"
 new_num1= list(map(int,numbers.split()))
 new_num1.sort(reverse=True)
 print(f"{new_num1[0]} {new_num1[-1]}")
-Method2
+#Method2
 new_num=list(map(int,numbers.split()))
 
 max_num = max(new_num)
 min_num = min(new_num)
 
 print(f"{max_num} {min_num}")
-Method3-Function
+#Method3-Function
 def high_and_low(numbers):
     new_num=list(map(int,numbers.split()))
     max_num = max(new_num)
